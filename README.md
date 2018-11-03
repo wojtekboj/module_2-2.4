@@ -12,7 +12,6 @@ Gradient buttons
 Project is created with:
 * HTML5
 * CSS3
-* Fonts - Google Fonts
 
 ## Tools
 The following tools were used
