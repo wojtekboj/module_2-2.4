@@ -16,7 +16,6 @@ Project is created with:
 ## Tools
 The following tools were used
 * Webstorm
-* Affinity Photo
 * Git
 
 ## Screen 
